@@ -9,4 +9,4 @@
 2023年12月20日
 
 运行界面如下
-![image-20231220224549512](D:\Code2024\sokobanGame\src\assets\map.png)
+![](D:\Code2024\sokobanGame\src\assets\map.png)
