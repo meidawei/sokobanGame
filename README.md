@@ -8,5 +8,5 @@
 开发时间：
 2023年12月20日
 
-运行界面：
-![Alt text](image.png)
+运行界面如下
+![image-20231220224549512](D:\Code2024\sokobanGame\src\assets\map.png)
